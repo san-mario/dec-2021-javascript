@@ -94,3 +94,34 @@
 // }
 //
 // objectListCreator([{id: 1, name: 'Petro', age: 51}, {id: 2, name: 'Ivan', age: 48}]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
