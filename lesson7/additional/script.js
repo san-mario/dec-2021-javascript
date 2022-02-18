@@ -35,3 +35,5 @@
 // let a = new TagDescription('a', 'является одним из важных элементов HTML и предназначен для создания ссылок', [{titleOfAttr: 'accesskey', actionOfAttr: 'Переход к области с помощью комбинации клавиш'}, {titleOfAttr: "coords", actionOfAttr: 'Устанавливает координаты активной области.'}, {titleOfAttr: 'download', actionOfAttr: 'Предлагает скачать указанный по ссылке файл.'},]);
 //
 // console.log(a)
+
+
